@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { InputBox } from "./Components";
+import  InputBox  from "./Components/Input";
 import useCurrencyInfo from "./hooks/useCurrencyInfo";
 
 const App = () => {
